@@ -1,22 +1,10 @@
 ---
 layout: post
-title: 这是一篇博客文章模板
-date: 2015-3-02
+title: 第一篇博客哦
+date: 2018-1-07
 categories: blog
-tags: [标签一,标签二]
-description: 文章金句。
+tags: [开始]
+description: 没事记录点东西。
 ---
 
-这里是博客正文。
-
-
-
-
-
-
-
-
-
-
-
-
+第一篇博客推送看看
